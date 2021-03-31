@@ -2,8 +2,8 @@
 
 todo numero debe tener asignado un numero, al menos un cero
 ```csharp
-// int a1; // must have a value
-// Console.WriteLine(a1);
+int a1; // must have a value
+Console.WriteLine(a1);
 ```
 
 si no les pones parentesis se ejecuta multiplicacion, division, suma y resta, en ese orden
